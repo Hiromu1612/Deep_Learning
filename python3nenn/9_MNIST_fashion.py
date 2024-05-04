@@ -70,3 +70,4 @@ for i in range(2):
         plt.ylim(0,1) #y軸の範囲を0~1にする
 plt.show()
 
+
